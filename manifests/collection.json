@@ -5,5 +5,9 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ ]
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://rawliq.github.io/Test-varignon/manifests/manifest-433531.json",
+    "label" : "Eclaircissemens sur l'analyse des infiniment petits"
+  } ]
 }
