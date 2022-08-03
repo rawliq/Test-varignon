@@ -1,0 +1,43 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "diff",
+      "@type" : "oa:Tag",
+      "chars" : "diff"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Auch sch&ouml;n!",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>Auch sch&ouml;n!</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/110536027",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-08-03T10:49:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1659523765673",
+    "dcterms:modified" : "2022-08-03T10:49:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1533,671,356,86"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1622.72727,672.78177c-3.99927,0 -18.14911,11.15949 -23.63636,12.72727c-15.12156,4.32045 -32.42984,4.54545 -48.18182,4.54545c-0.52277,0 -12.17598,-1.18474 -14.54545,0c-7.00052,3.50026 -0.41237,15.07591 1.81818,19.09091c8.2377,14.82787 28.42834,22.13919 43.63636,26.36364c9.22801,2.56334 17.95736,0.65376 27.27273,1.81818c3.93034,0.49129 6.06966,2.23598 10,2.72727c14.87273,1.85909 30.49775,-0.9348 45.45455,0c19.01349,1.18834 46.07522,3.54984 64.54545,9.09091c14.75162,4.42549 40.41294,10.66124 55.45455,6.36364c14.14685,-4.04196 28.14851,-10.73495 41.81818,-16.36364c15.15159,-6.23889 32.20041,-9.09091 48.18182,-9.09091c3.67655,0 12.58919,0.69043 13.63636,-4.54545c4.03178,-20.15889 -9.3241,-42.71116 -29.09091,-47.27273c-22.41331,-5.1723 -46.65743,0.90909 -69.09091,0.90909c-21.35933,0 -43.25533,1.41934 -64.54545,0c-17.13686,-1.14246 -33.8392,-4.94115 -50.90909,-6.36364c-7.80789,-0.65066 -23.19603,-2.4517 -30.90909,-0.90909c-6.17561,1.23512 -14.79436,4.29654 -20,-0.90909\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_f6a1697c-60de-4eb7-89bb-e82f8bd456a5\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433548"
+    } ]
+  } ],
+  "@id" : "https://rawliq.github.io/Test-varignon/annotations/0661796cc39f56c43b7d6f27e4d03ca0.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
