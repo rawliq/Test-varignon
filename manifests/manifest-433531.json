@@ -1,0 +1,3479 @@
+{
+  "viewingHint" : "paged",
+  "attribution" : "e-rara, the platform for digitized rare books from Swiss institutions",
+  "service" : [ ],
+  "license" : "https://creativecommons.org/publicdomain/mark/1.0/deed.de",
+  "structures" : [ {
+    "ranges" : [ "https://www.e-rara.ch/zut/i3f/v20/433531/range/476112", "https://www.e-rara.ch/zut/i3f/v20/433531/range/476113", "https://www.e-rara.ch/zut/i3f/v20/433531/range/476114", "https://www.e-rara.ch/zut/i3f/v20/433531/range/476115", "https://www.e-rara.ch/zut/i3f/v20/433531/range/476116", "https://www.e-rara.ch/zut/i3f/v20/433531/range/476118", "https://www.e-rara.ch/zut/i3f/v20/433531/range/476119", "https://www.e-rara.ch/zut/i3f/v20/433531/range/476121", "https://www.e-rara.ch/zut/i3f/v20/433531/range/476122", "https://www.e-rara.ch/zut/i3f/v20/433531/range/476123" ],
+    "viewingHint" : "top",
+    "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/range/433531",
+    "@type" : "sc:Range",
+    "label" : "Table of Contents"
+  }, {
+    "canvases" : [ "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433533", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433534" ],
+    "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/range/476112",
+    "@type" : "sc:Range",
+    "label" : "Titelblatt"
+  }, {
+    "canvases" : [ "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433535", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433536", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433537", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433538", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433539", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433540" ],
+    "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/range/476113",
+    "@type" : "sc:Range",
+    "label" : "Le libraire au lecteur."
+  }, {
+    "canvases" : [ "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433541", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433542", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433543", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433544", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433545", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433546", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433547", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433548", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433549", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433550", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433551", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433552", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433553", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433554", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433555", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433556", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433557", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433558", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433559", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433560", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433561", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433562", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433563", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433564", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433565", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433566", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433567", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433568", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433569", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433570", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433571", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433572", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433573", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433574", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433575", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433576", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433577", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433578", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433579", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433580", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433581", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433582", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433583", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433584", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433585", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433586", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433587", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433588", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433589", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433590", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433591", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433592", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433593", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433594", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433595", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433596", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433597", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433598", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433599", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433600", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433601", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433602", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433603", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433604", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433605", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433606", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433607", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433608", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433609", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433610", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433611", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433612", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433613", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433614", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433615", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433616", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433617", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433618", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433619", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433620", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433621", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433622", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433623", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433624", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433625", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433626", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433627", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433628", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433629", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433630", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433631", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433632", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433633", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433634", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433635", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433636", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433637", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433638", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433639" ],
+    "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/range/476114",
+    "@type" : "sc:Range",
+    "label" : "Éclairissemens sur l'analyse des infiniment petits."
+  }, {
+    "canvases" : [ "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433640" ],
+    "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/range/476115",
+    "@type" : "sc:Range",
+    "label" : "Avertissement."
+  }, {
+    "canvases" : [ "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433641", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433642", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433643", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433644", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433645", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433646", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433647", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433648", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433649", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433650", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433651", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433652", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433653", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433654", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433655", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433656", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433657" ],
+    "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/range/476116",
+    "@type" : "sc:Range",
+    "label" : "De calculo exponentiali."
+  }, {
+    "canvases" : [ "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433658" ],
+    "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/range/476118",
+    "@type" : "sc:Range",
+    "label" : "Fautes à corriger."
+  }, {
+    "canvases" : [ "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433659", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433660" ],
+    "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/range/476121",
+    "@type" : "sc:Range",
+    "label" : "Privilège du Roy."
+  }, {
+    "canvases" : [ "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433661", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433662", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433663", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433664", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433665", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433666", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433667", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433668", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433669", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433670" ],
+    "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/range/476122",
+    "@type" : "sc:Range",
+    "label" : "[Planches.]"
+  }, {
+    "canvases" : [ "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433671", "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433672" ],
+    "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/range/476123",
+    "@type" : "sc:Range",
+    "label" : "Rückdeckel"
+  } ],
+  "sequences" : [ {
+    "canvases" : [ {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433533"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433533",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433533",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433533",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[1]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433533",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433534"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433534",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433534",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433534",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[2]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433534",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433535"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433535",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433535",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433535",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[3]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433535",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433536"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433536",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433536",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433536",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[4]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433536",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433537"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433537",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433537",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433537",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[5]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433537",
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@id" : "https://rawliq.github.io/Test-varignon/annotations/4399570b29e286227ff43380fea0d16c.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ]
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433538"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433538",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433538",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433538",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[6]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433538",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433539"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433539",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433539",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433539",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[7]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433539",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433540"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433540",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433540",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433540",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[8]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433540",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433541"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433541",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433541",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433541",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "1",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433541",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433542"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433542",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433542",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433542",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "2",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433542",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433543"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433543",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433543",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433543",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "3",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433543",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433544"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433544",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433544",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433544",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "4",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433544",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433545"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433545",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433545",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433545",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "5",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433545",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433546"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433546",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433546",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433546",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "6",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433546",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433547"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433547",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433547",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433547",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "7",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433547",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433548"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433548",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433548",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433548",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "8",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433548",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433549"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433549",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433549",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433549",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "9",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433549",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433550"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433550",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433550",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433550",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "10",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433550",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433551"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433551",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433551",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433551",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "11",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433551",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433552"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433552",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433552",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433552",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "12",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433552",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433553"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433553",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433553",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433553",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "13",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433553",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433554"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433554",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433554",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433554",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "14",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433554",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433555"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433555",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433555",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433555",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "15",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433555",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433556"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433556",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433556",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433556",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "16",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433556",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433557"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433557",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433557",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433557",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "17",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433557",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433558"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433558",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433558",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433558",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "18",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433558",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433559"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433559",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433559",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433559",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "19",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433559",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433560"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433560",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433560",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433560",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "20",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433560",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433561"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433561",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433561",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433561",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "21",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433561",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433562"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433562",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433562",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433562",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "22",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433562",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433563"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433563",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433563",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433563",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "23",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433563",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433564"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433564",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433564",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433564",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "24",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433564",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433565"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433565",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433565",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433565",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "25",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433565",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433566"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433566",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433566",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433566",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "26",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433566",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433567"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433567",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433567",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433567",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "27",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433567",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433568"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433568",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433568",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433568",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "28",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433568",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433569"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433569",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433569",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433569",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "29",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433569",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433570"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433570",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433570",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433570",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "30",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433570",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433571"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433571",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433571",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433571",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "31",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433571",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433572"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433572",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433572",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433572",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "32",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433572",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433573"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433573",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433573",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433573",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "33",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433573",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433574"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433574",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433574",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433574",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "34",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433574",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433575"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433575",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433575",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433575",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "35",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433575",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433576"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433576",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433576",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433576",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "36",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433576",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433577"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433577",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433577",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433577",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "37",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433577",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433578"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433578",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433578",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433578",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "38",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433578",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433579"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433579",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433579",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433579",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "39",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433579",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433580"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433580",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433580",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433580",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "40",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433580",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433581"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433581",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433581",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433581",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "41",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433581",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433582"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433582",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433582",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433582",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "42",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433582",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433583"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433583",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433583",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433583",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "43",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433583",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433584"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433584",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433584",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433584",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "44",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433584",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433585"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433585",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433585",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433585",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "45",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433585",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433586"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433586",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433586",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433586",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "46",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433586",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433587"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433587",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433587",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433587",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "47",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433587",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433588"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433588",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433588",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433588",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "48",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433588",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433589"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433589",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433589",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433589",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "49",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433589",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433590"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433590",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433590",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433590",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "50",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433590",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433591"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433591",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433591",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433591",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "51",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433591",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433592"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433592",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433592",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433592",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "52",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433592",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433593"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433593",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433593",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433593",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "53",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433593",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433594"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433594",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433594",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433594",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "54",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433594",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433595"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433595",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433595",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433595",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "55",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433595",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433596"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433596",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433596",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433596",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "56",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433596",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433597"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433597",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433597",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433597",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "57",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433597",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433598"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433598",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433598",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433598",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "58",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433598",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433599"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433599",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433599",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433599",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "59",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433599",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433600"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433600",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433600",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433600",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "60",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433600",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433601"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433601",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433601",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433601",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "61",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433601",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433602"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433602",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433602",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433602",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "62",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433602",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433603"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433603",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433603",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433603",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "63",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433603",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433604"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433604",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433604",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433604",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "64",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433604",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433605"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433605",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433605",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433605",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "65",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433605",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433606"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433606",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433606",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433606",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "66",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433606",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433607"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433607",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433607",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433607",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "67",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433607",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433608"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433608",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433608",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433608",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "68",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433608",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433609"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433609",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433609",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433609",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "69",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433609",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433610"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433610",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433610",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433610",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "70",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433610",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433611"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433611",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433611",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433611",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "71",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433611",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433612"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433612",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433612",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433612",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "72",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433612",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433613"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433613",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433613",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433613",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "73",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433613",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433614"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433614",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433614",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433614",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "74",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433614",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433615"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433615",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433615",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433615",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "75",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433615",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433616"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433616",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433616",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433616",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "76",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433616",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433617"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433617",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433617",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433617",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "77",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433617",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433618"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433618",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433618",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433618",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "78",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433618",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433619"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433619",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433619",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433619",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "79",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433619",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433620"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433620",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433620",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433620",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "80",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433620",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433621"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433621",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433621",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433621",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "81",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433621",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433622"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433622",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433622",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433622",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "82",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433622",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433623"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433623",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433623",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433623",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "83",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433623",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433624"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433624",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433624",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433624",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "84",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433624",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433625"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433625",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433625",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433625",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "85",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433625",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433626"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433626",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433626",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433626",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "86",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433626",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433627"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433627",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433627",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433627",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "87",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433627",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433628"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433628",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433628",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433628",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "88",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433628",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433629"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433629",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433629",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433629",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "89",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433629",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433630"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433630",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433630",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433630",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "90",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433630",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433631"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433631",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433631",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433631",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "91",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433631",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433632"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433632",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433632",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433632",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "92",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433632",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433633"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433633",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433633",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433633",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "93",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433633",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433634"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433634",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433634",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433634",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "94",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433634",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433635"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433635",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433635",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433635",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "95",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433635",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433636"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433636",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433636",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433636",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "96",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433636",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433637"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433637",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433637",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433637",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "97",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433637",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433638"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433638",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433638",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433638",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "98",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433638",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433639"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433639",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433639",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433639",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "99",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433639",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433640"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433640",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433640",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433640",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "100",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433640",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433641"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433641",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433641",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433641",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "101",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433641",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433642"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433642",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433642",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433642",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "102",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433642",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433643"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433643",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433643",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433643",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "103",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433643",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2241,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433644"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433644",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433644",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433644",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "104",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433644",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433645"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433645",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433645",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433645",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "105",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433645",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433646"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433646",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433646",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433646",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "106",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433646",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433647"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433647",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433647",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433647",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "107",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433647",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433648"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433648",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433648",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433648",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "108",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433648",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433649"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433649",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433649",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433649",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "109",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433649",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433650"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433650",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433650",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433650",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "110",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433650",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433651"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433651",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433651",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433651",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "111",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433651",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433652"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433652",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433652",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433652",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "112",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433652",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433653"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433653",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433653",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433653",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "113",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433653",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433654"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433654",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433654",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433654",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "114",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433654",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433655"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433655",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433655",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433655",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "115",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433655",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433656"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433656",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433656",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433656",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "116",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433656",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433657"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433657",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433657",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433657",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "117",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433657",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433658"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433658",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433658",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433658",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "118",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433658",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433659"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433659",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433659",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433659",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[127]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433659",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433660"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433660",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433660",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433660",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[128]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433660",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 4893,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433661"
+          },
+          "format" : "image/jpeg",
+          "height" : 619,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433661",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433661",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433661",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[129]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433661",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 4893,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433662"
+          },
+          "format" : "image/jpeg",
+          "height" : 619,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433662",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433662",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433662",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[130]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433662",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 4893,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433663"
+          },
+          "format" : "image/jpeg",
+          "height" : 619,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433663",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433663",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433663",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[131]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433663",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 4893,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433664"
+          },
+          "format" : "image/jpeg",
+          "height" : 619,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433664",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433664",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433664",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[132]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433664",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 4893,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433665"
+          },
+          "format" : "image/jpeg",
+          "height" : 619,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433665",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433665",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433665",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[133]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433665",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 4894,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433666"
+          },
+          "format" : "image/jpeg",
+          "height" : 619,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433666",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433666",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433666",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[134]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433666",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3031,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433667"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433667",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433667",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433667",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[135]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433667",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2240,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433668"
+          },
+          "format" : "image/jpeg",
+          "height" : 1352,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433668",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433668",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433668",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[136]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433668",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2239,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433669"
+          },
+          "format" : "image/jpeg",
+          "height" : 1353,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433669",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433669",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433669",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[137]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433669",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2274,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433670"
+          },
+          "format" : "image/jpeg",
+          "height" : 1332,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433670",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433670",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433670",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[138]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433670",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3059,
+      "width" : 2352,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433671"
+          },
+          "format" : "image/jpeg",
+          "height" : 1300,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433671",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433671",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433671",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[139]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433671",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3030,
+      "width" : 2323,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/zut/i3f/v20/433672"
+          },
+          "format" : "image/jpeg",
+          "height" : 1304,
+          "width" : 1000,
+          "@id" : "https://www.e-rara.ch/zut/download/webcache/1000/433672",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433672",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/annotation/433672",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[140]",
+      "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433672",
+      "@type" : "sc:Canvas"
+    } ],
+    "viewingHint" : "paged",
+    "startCanvas" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433533",
+    "viewingDirection" : "left-to-right",
+    "label" : "Current Page Order",
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/sequence/normal",
+    "@type" : "sc:Sequence"
+  } ],
+  "label" : "Eclaircissemens sur l'analyse des infiniment petits",
+  "thumbnail" : {
+    "width" : 304,
+    "height" : 411,
+    "@id" : "https://www.e-rara.ch/zut/i3f/v21/433533/full/304/0/default.jpg",
+    "@type" : "dctypes:Image",
+    "format" : "image/jpeg"
+  },
+  "logo" : {
+    "@id" : "https://www.e-rara.ch/domainresource/static/graphics/connectors/eraraIco.gif",
+    "service" : {
+      "profile" : "http://iiif.io/api/image/2/level2.json",
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "http://www.library.ethz.ch"
+    }
+  },
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "metadata" : [ {
+    "value" : "Eclaircissemens sur l'analyse des infiniment petits / par M. Varignon",
+    "label" : "Titel"
+  }, {
+    "value" : "Varignon, Pierre [1654-1722]",
+    "label" : "Autor, Beteiligte"
+  }, {
+    "value" : "A Paris : chez Rollin, 1725",
+    "label" : "Impressum"
+  }, {
+    "value" : "[5] Bl., 118 S., [1] Bl. : Ill.(6 gefaltete Tafeln) ; 24 cm",
+    "label" : "Umfang"
+  }, {
+    "value" : "Französisch",
+    "label" : "Sprache"
+  }, {
+    "value" : "ETH-Bibliothek, Rar 4989",
+    "label" : "Besitzende Institution"
+  }, {
+    "value" : "https://doi.org/10.3931/e-rara-1489",
+    "label" : "DOI"
+  } ],
+  "@id" : "https://rawliq.github.io/Test-varignon/manifests/manifest-433531.json",
+  "@type" : "sc:Manifest",
+  "seeAlso" : {
+    "format" : "application/xml",
+    "@id" : "https://www.e-rara.ch/zut/oai?verb=GetRecord&metadataPrefix=mets&identifier=433531",
+    "label" : "METS"
+  }
+}
