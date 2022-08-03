@@ -1,0 +1,76 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Da ...",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Da ...</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/110536027",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-08-03T10:46:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1659523602320",
+    "dcterms:modified" : "2022-08-03T10:46:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=337,730,384,286"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M336.86024,729.80461h192.17368v0h192.17368v142.83853v142.83853h-192.17368h-192.17368v-142.83853z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_32e433e5-b067-4a23-8472-9cce2fd2fec5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433537"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Kustode",
+      "@type" : "oa:Tag",
+      "chars" : "Kustode"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "... und das da. <a title=\"Wiki-Link\" href=\"https://de.wikipedia.org/wiki/Kustode_(Buchherstellung)\" target=\"_blank\" rel=\"noopener\">--&gt; Mehr dazu.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>... und das da. <a title=\"Wiki-Link\" href=\"https://de.wikipedia.org/wiki/Kustode_(Buchherstellung)\" target=\"_blank\" rel=\"noopener\">--&gt; Mehr dazu</a>.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/110536027",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-08-03T10:48:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1659523705064",
+    "dcterms:modified" : "2022-08-03T10:48:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-rara.ch/zut/i3f/v20/433531/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1251,2353,192,144"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1250.5882,2352.72524h96.07293v0h96.07293v71.91927v71.91927h-96.07293h-96.07293v-71.91927z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_92536c83-8af6-4f7a-98d8-c4d7dbfe5e9a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-rara.ch/zut/i3f/v20/433531/canvas/433537"
+    } ]
+  } ],
+  "@id" : "https://rawliq.github.io/Test-varignon/annotations/4399570b29e286227ff43380fea0d16c.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
