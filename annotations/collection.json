@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://rawliq.github.io/Test-varignon/annotations/0661796cc39f56c43b7d6f27e4d03ca0.json" ],
+  "@id" : "https://rawliq.github.io/Test-varignon/annotations/collection.json",
+  "label" : "All annotations loaded in rawliq/Test-varignon project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
